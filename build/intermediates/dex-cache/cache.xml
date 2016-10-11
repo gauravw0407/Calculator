@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1cbb84e93d0ae4c8257150f399d79afdef32fcb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_96fe1970c743ba4a658dbbcd5609bd20ce9f5a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_efb059f71d71dbd84d2c158be7671956218f59e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_46e433b7b4c08b69da3e2ea1acd95ddfdabd3c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_682798022adb10fe1bbf9154019603de74c297ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_4c423c85801c73e02936875d5b203d9545674b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_33dc9cad6dc3fecf5ebe7fb3050bcca6c1ec682c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_e24584093e020b64da1e383ace3b91f0a1aafb16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8122ab8f504a054089a37c29ec59aca6f24cab47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_28d5e872884c7c96f750d4b79027329a89e7a5c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_9b3f7bf4a0f7d6c490b26f6b24d26a7641dc4f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4852bd87f58e1a89381722527b70c62ada8370c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8899523cf7fe1ed5c91747b5806b2157c92ad445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d96502ce32b5c91a0f361e150fa9d0d9caae579a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/gaurav/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_0db714ffbd9ebeb98c9c9c79f657b55a8d039598.jar" />
+    </item>
+
+</items>
